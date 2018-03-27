@@ -1,12 +1,12 @@
-## [](#header-1)Description
+### [](#header-1)Description
 
 Who, what, when and where? 
 
-## [](#header-2)Why?(Group Mission)
+### [](#header-2)Why?(Group Mission)
 
 The reason to why you became a notary, what is your strategy and what do you plan to offer that is different from the rest.
 
-## [](#header-6)Services
+### [](#header-6)Services
 
 | Service           | Price  |
 |:------------------|:-------|
@@ -17,7 +17,7 @@ The reason to why you became a notary, what is your strategy and what do you pla
 
 *Disclaimer: Cash only Disclaimer 
 
-## [](#header-6)Available Hours: 
+### [](#header-6)Available Hours: 
 
 | Days               | Hours            |
 |:-------------------|:-----------------|
@@ -26,7 +26,7 @@ The reason to why you became a notary, what is your strategy and what do you pla
 
 *Disclaimer: Limited to No Miles on these Days
 
-## [](#header-6)Travel Pricing
+### [](#header-6)Travel Pricing
 
 Traveling is available. These are the traveling rates: 
 
@@ -39,7 +39,7 @@ Traveling is available. These are the traveling rates:
 
 *Disclaimer: Any Disclaimer 
 
-## [](#header-4)Requirments: 
+### [](#header-4)Requirments: 
 
 Before Notarizing any document, all of these need to be present: 
 
@@ -51,10 +51,10 @@ Before Notarizing any document, all of these need to be present:
       -Resident alien identification card (green card)
 *   The fee pertinent to each notarial act and or travel fee.
 
-## [](#header-1)Header 1
+### [](#header-1)Header 1
 
 I cannot provide any legal advice pertinent to the documents I am notarizing. My sole function is to notarize documents. The signee must also afirm to understanding the nature of the document he or she is signing, and that they are not signing under coercion. 
 
-### [](#header-8)Can also communicate in Spanish and German.
+#### [](#header-8)Can also communicate in Spanish and German.
 
 
