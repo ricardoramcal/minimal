@@ -10,7 +10,7 @@ The reason to why you became a notary, what is your strategy and what do you pla
 
 | Service           | Price  | 
 |:------------------|:-------|
-| One, two, three four five        | $10.00 |
+| Service 1         | $10.00 |
 | Service 2         | $20.00 |
 | Service 3         | $30.00 |
 | Service 4         | $40.00 |
