@@ -25,7 +25,7 @@ The reason to why you became a notary, what is your strategy and what do you pla
 | Friday - Sunday*   | 8:30pm - 10:30pm |
 
  [_Schedule Now_](emailscript) 
-*Response time is _usually_ 30min - 1:00hr from 9:00am - 9:00pm. 
+(Response time is _usually_ 30min - 1:00hr from 9:00am - 9:00pm.) 
 
 ### [](#header-6)Travel Pricing
 
