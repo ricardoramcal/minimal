@@ -40,8 +40,6 @@ Traveling is available. These are the traveling rates:
 
 *Disclaimer: Any Disclaimer 
 
-* * * 
-
 ### [](#header-4)Requirments: 
 
 Before Notarizing any document, all of these need to be present: 
