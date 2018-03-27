@@ -6,6 +6,8 @@ Who, what, when and where?
 
 The reason to why you became a notary, what is your strategy and what do you plan to offer that is different from the rest.
 
+* * * 
+
 ### [](#header-6)Services
 
 | Service           | Price  | 
@@ -39,6 +41,8 @@ Traveling is available. These are the traveling rates:
 | 31 - Over         | Unavailable |
 
 *Disclaimer: Any Disclaimer 
+
+* * * 
 
 ### [](#header-4)Requirments: 
 
