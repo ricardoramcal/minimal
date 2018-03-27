@@ -13,7 +13,7 @@ Please write your name, email and desired time slot:
           <textarea></textarea> 
 <input type="submit" value="Send"><br />
 
-Response time is usually 30min - 1:00hr from 9:00am - 9:00pm 
+Response time is _usually_ *30min - 1:00hr* from 9:00am - 9:00pm 
 
 ### [](#header-6)Available Hours: 
 
