@@ -1,6 +1,6 @@
 ## [](#header-1)Notary Public
 
-A Notary Public is an official of integrity appointed by state government to serve the public as an impartial witness in performing a variety of official fraud-deterrent acts related to the signing of important documents. Our goal is to provide the fairest price possible when performing all our notarial acts.  We abide by all state regulations when performing said duties.  
+A Notary Public is an official of integrity appointed by state government to serve the public as an impartial witness in performing a variety of official fraud-deterrent acts related to the signing of important documents. Our goal is to provide the fairest price possible when performing all our notarial acts.  _RGR Notary_ abides by all state regulations when performing as notary. Following is a list of all our services:  
 
 ### [](#header-6)Services
 
