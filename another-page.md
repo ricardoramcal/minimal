@@ -6,7 +6,7 @@ layout: default
 
 Please write your name, email and desired time slot:
 
-[](emailscript) 
+[Make Email](emailscript) 
 
 Response time is _usually_ 30min - 1:00hr from 9:00am - 9:00pm 
 
