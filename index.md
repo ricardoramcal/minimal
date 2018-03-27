@@ -26,6 +26,7 @@ The reason to why you became a notary, what is your strategy and what do you pla
 
 ### [Schedule Now](emailscript) 
 (Please write your name, email and desired time slot)
+
 ######## Response time is _usually_ 30min - 1:00hr from 9:00am - 9:00pm 
 
 *Disclaimer: Limited to No Miles on these Days
