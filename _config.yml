@@ -1,5 +1,8 @@
 title: RGR Notary
 description: Local Notary, Travel available 
+
+[Schedule an Appointment](another-page).
+
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
