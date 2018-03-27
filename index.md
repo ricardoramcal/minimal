@@ -35,8 +35,8 @@ These are the mobile rates:
 | Miles             | Price       |
 |:------------------|:------------|
 | 1  - 15 Miles     | $10.00      |
-| 16 - 25 Miles*    | $20.00      |
-| 26 - 30 Miles*    | $30.00      |
+| 16 - 25 Miles*    | $16.00      |
+| 26 - 30 Miles*    | $22.00      |
 
 *20 miles or over: PayPal prepay required. 
 
