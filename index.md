@@ -14,7 +14,7 @@ The reason to why you became a notary, what is your strategy and what do you pla
 | Vehicle Identification Number                 | $6.00  |
 | Attesting to a Photocopy                      | $6.00  |
 | Certifying the Contents of a Safe Deposit Box | $8.00  |
-| To Solemnize a Marriage                       | $15.00 |
+| Solemnizing a Marriage                        | $15.00 |
 
 *Disclaimer: Cash only Disclaimer 
 
