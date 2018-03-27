@@ -5,9 +5,6 @@ layout: default
 ## Schedule an Appointment
 
 Please write your name, email and desired time slot:
-
-[Schedule Now](emailscript) 
-
 Response time is _usually_ 30min - 1:00hr from 9:00am - 9:00pm 
 
 ### [](#header-6)Available Hours: 
@@ -22,3 +19,5 @@ Please refer to our working hours when scheduling your appointment:
 
 
 *Appointments outside these working hours will not be processed.  
+
+### [Schedule Now](emailscript) 
