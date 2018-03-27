@@ -52,9 +52,7 @@ Before Notarizing any document, all of these need to be present:
       -Resident alien identification card (green card) <br />
 *   The fee pertinent to each notarial act and or travel fee. 
 
-### [](#header-1)Disclaimer
-
-I cannot provide any legal advice pertinent to the documents I am notarizing. My sole function is to notarize documents. The signee must also afirm to understanding the nature of the document he or she is signing, and that they are not signing under coercion. 
+## [Disclaimer](another-page).
 
 #### [](#header-8)Can also communicate in Spanish and German.
 
