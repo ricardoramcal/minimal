@@ -1,6 +1,6 @@
-## [](#header-1)Description
+## [](#header-1)RGR Notary Public
 
-Who, what, when and where? 
+I am an official of integrity appointed by state government to serve the public as an impartial witness in performing a variety of official fraud-deterrent acts related to the signing of important documents. 
 
 ### [](#header-2)Why?(Group Mission)
 
