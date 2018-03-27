@@ -52,6 +52,8 @@ Before Notarizing any document, all of these need to be present:
       -Resident alien identification card (green card) <br />
 *   The fee pertinent to each notarial act and or travel fee. 
 
+* * * 
+
 ### [Disclaimer](another-page)
 
 #### [](#header-8)Can also communicate in Spanish and German.
