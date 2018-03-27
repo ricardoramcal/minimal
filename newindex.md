@@ -45,7 +45,7 @@ Before Notarizing any document, all of these need to be present:
 
 *   Person who is doing the notarization needs to be present. 
 *   Propper form of identification:
-    -ID (Florida Drivers License, Learners Permit or Identification Card)
+    -ID (Florida Drivers License, Learners Permit or Identification Card)<br /> 
     -US Passport
     -U.S. military identification card
     -Resident alien identification card (green card)
