@@ -6,8 +6,6 @@ Who, what, when and where?
 
 The reason to why you became a notary, what is your strategy and what do you plan to offer that is different from the rest.
 
-* * * 
-
 ### [](#header-6)Services
 
 | Service           | Price  | 
