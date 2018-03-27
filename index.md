@@ -24,6 +24,8 @@ The reason to why you became a notary, what is your strategy and what do you pla
 | Tuesday - Thursday | 8:00am - 11:00pm |
 | Friday - Sunday*   | 8:30pm - 10:30pm |
 
+[Schedule an Appointment](another-page).
+
 *Disclaimer: Limited to No Miles on these Days
 
 ### [](#header-6)Travel Pricing
