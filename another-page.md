@@ -11,7 +11,7 @@ Please write your name, email and desired time slot:
           <p>Email: <br /><input type="email" cols="20" name="_replyto"><br />
           <p>Contact Us: <br /> 
           <textarea></textarea> 
-<input type="submit" value="Send"><br />
+<input type="submit" value="Send">
 
 Response time is _usually_ 30min - 1:00hr from 9:00am - 9:00pm 
 
