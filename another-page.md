@@ -10,7 +10,7 @@ layout: default
           <p>Email: <br /><input type="email" cols="20" name="_replyto"><br />
           <p>Contact Us: <br /><textarea name="comment" cols="20" rows="3"></textarea><br />
           <input type="submit" value="Send">
-        </form>
+       
 
 _yay_
 
