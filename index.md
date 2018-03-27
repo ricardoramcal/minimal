@@ -1,10 +1,6 @@
-## [](#header-1)RGR Notary Public
+## [](#header-1)Notary Public
 
-I am an official of integrity appointed by state government to serve the public as an impartial witness in performing a variety of official fraud-deterrent acts related to the signing of important documents. 
-
-### [](#header-2)Why?(Group Mission)
-
-The reason to why you became a notary, what is your strategy and what do you plan to offer that is different from the rest.
+A Notary Public is an official of integrity appointed by state government to serve the public as an impartial witness in performing a variety of official fraud-deterrent acts related to the signing of important documents. Our goal is to provide the fairest price possible when performing all our notarial acts.  We abide by all state regulations when performing said duties.  
 
 ### [](#header-6)Services
 
