@@ -44,12 +44,12 @@ Traveling is available. These are the traveling rates:
 Before Notarizing any document, all of these need to be present: 
 
 *   Person who is doing the notarization needs to be present. 
-*   Propper form of identification:
+*   Propper form of identification:<br />
     -ID (Florida Drivers License, Learners Permit or Identification Card)<br /> 
-    -US Passport
-    -U.S. military identification card
-    -Resident alien identification card (green card)
-*   The fee pertinent to each notarial act and or travel fee.
+    -US Passport <br />
+    -U.S. military identification card <br />
+    -Resident alien identification card (green card) <br />
+*   The fee pertinent to each notarial act and or travel fee. 
 
 ### [](#header-1)Header 1
 
