@@ -8,12 +8,13 @@ The reason to why you became a notary, what is your strategy and what do you pla
 
 ### [](#header-6)Services
 
-| Service           | Price  | 
-|:------------------|:-------|
-| Service 1         | $10.00 |
-| Service 2         | $20.00 |
-| Service 3         | $30.00 |
-| Service 4         | $40.00 |
+| Service                                       | Price  | 
+|:----------------------------------------------|:-------|
+| Affidavit or Acknowledgement                  | $5.00  |
+| Vehicle Identification Number                 | $6.00  |
+| Attesting to a Photocopy                      | $6.00  |
+| Certifying the Contents of a Safe Deposit Box | $8.00  |
+| To Solemnize a Marriage                       | $15.00 |
 
 *Disclaimer: Cash only Disclaimer 
 
@@ -29,16 +30,15 @@ The reason to why you became a notary, what is your strategy and what do you pla
 
 ### [](#header-6)Travel Pricing
 
-Traveling is available. These are the traveling rates: 
+These are the mobile rates: 
 
 | Miles             | Price       |
 |:------------------|:------------|
-| 0 - 10 Miles      | $10.00      |
-| 11 - 20 Miles     | $20.00      |
-| 21 - 30 Miles     | $30.00      |
-| 31 - Over         | Unavailable |
+| 1  - 15 Miles     | $10.00      |
+| 16 - 25 Miles*    | $20.00      |
+| 26 - 30 Miles*    | $30.00      |
 
-*Disclaimer: Any Disclaimer 
+*20 miles or over: PayPal prepay required. 
 
 ### [](#header-4)Requirments: 
 
