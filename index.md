@@ -2,6 +2,8 @@
  
 A Notary Public is an official of integrity appointed by state government to serve the public as an impartial witness in performing a variety of official fraud-deterrent acts related to the signing of important documents. Our goal is to provide the fairest price possible when performing all our notarial acts.  _RGR Notary_ abides by all state regulations when performing said notarial acts. Following is a list of all our services: 
 
+*****
+
 ### [](#header-6)Notarization
 
 | Service                                       | Price  | 
@@ -14,6 +16,8 @@ A Notary Public is an official of integrity appointed by state government to ser
 
 *Disclaimer: Cash only Disclaimer 
 
+*****
+
 ### [](#header-6)Available Hours: 
 
 | Days               | Hours            |
@@ -22,7 +26,9 @@ A Notary Public is an official of integrity appointed by state government to ser
 | Friday - Sunday*   | 8:30pm - 10:30pm |
 
 #### [_Schedule Now_](emailscript) 
-(_Usually_ responds within 30min to 1:00hour from 9:00am to 9:00pm.) 
+(_Usually_ responds within 30min to 1:00hour from 9:00am to 9:00pm.)
+
+*****
 
 ### [](#header-6)Travel Pricing
 
@@ -35,6 +41,9 @@ These are the mobile rates:
 | 26 - 30 Miles*    | $22.00      |
 
 *20 miles or over: PayPal prepay required. 
+
+*****
+
 
 ### [](#header-4)Requirments: 
 
