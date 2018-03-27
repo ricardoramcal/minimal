@@ -6,12 +6,7 @@ layout: default
 
 Please write your name, email and desired time slot:
 
-  <form action="https://formspree.io/rgr.notary@gmail.com" method="POST">
-          <p>Name: <br /><input type="text" cols="20" name="name"><br />
-          <p>Email: <br /><input type="email" cols="20" name="_replyto"><br />
-          <p>Contact Us: <br /> 
-          <textarea></textarea> <br />
-<input type="submit" value="Send">
+(emailscript). 
 
 Response time is _usually_ 30min - 1:00hr from 9:00am - 9:00pm 
 
