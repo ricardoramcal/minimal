@@ -24,6 +24,8 @@ A Notary Public is an official of integrity appointed by state government to ser
  <input type="text" name="name"><br />
  Email<br />
  <input type="email" name="_replyto">
+ Contact Us<br />
+ <input type="textarea" name="textarea">
  <br /><input type="submit" value="Send">
 </form> 
 
