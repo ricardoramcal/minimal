@@ -37,10 +37,6 @@ A Notary Public is an official of integrity appointed by state government to ser
 
 *****
 
-<form action="https://formspree.io/rgr.notary@gmail.com" method="POST">
-<p>Name: <br /><input type="text" cols="20" name="name"><br />
-<p>Email: <br /><input type="email" cols="20" name="_replyto"><br />
-
 ### [](#header-6)Travel Pricing
 
 These are the mobile rates: 
