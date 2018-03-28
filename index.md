@@ -26,7 +26,6 @@ A Notary Public is an official of integrity appointed by state government to ser
  <input type="email" name="_replyto"><br />
  Contact Us<br />
  <input type="textarea" name="scheduling">
- <textarea></textarea><br />
  <br /><input type="submit" value="Send">
 </form> 
 
@@ -37,7 +36,23 @@ A Notary Public is an official of integrity appointed by state government to ser
 | Tuesday - Thursday | 8:00am - 11:00pm |
 | Friday - Sunday*   | 8:30pm - 10:30pm |
 
-#### [_Schedule Now_](emailscript.html) 
+#### [Schedule an Appointment:]
+
+Please write us your name, email, and telephone number, along with the desired time slot (_example: Tuesday 3:30).
+
+<form action="https://formspree.io/rgr.notary@gmail.com"
+      method="POST">
+ Name<br />
+ <input type="text*" name="name"><br />
+ Email<br />
+ <input type="email*" name="_replyto"><br />
+ Telephone<br />
+ <input type="tel" name="scheduling"><br />
+ Contact Us<br />
+ <input type="textarea*" name="scheduling"><br />
+ <input type="submit" value="Send">
+</form>
+
 (_Usually_ responds within 30min to 1:00hour from 9:00am to 9:00pm.)
 
 *****
