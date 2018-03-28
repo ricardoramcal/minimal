@@ -42,7 +42,6 @@ Please write us your name, email, and telephone number, along with the desired t
  <input type="textarea*" name="scheduling"><br />
  <input type="submit" value="Send">
 </form><br />
-
 (_Usually_ responds within 30min to 1:00hour from 9:00am to 9:00pm.)
 
 *****
