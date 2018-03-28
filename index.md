@@ -48,8 +48,6 @@ Please write us your name, email, and telephone number, along with the desired t
 
 ### [](#header-6)Travel Pricing
 
-These are the mobile rates: 
-
 | Miles             | Price       |
 |:------------------|:------------|
 | 1  - 15 Miles     | $10.00      |
