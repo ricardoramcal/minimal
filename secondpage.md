@@ -1,3 +1,3 @@
-   <input type="text" name="name">
-    <input type="email" name="_replyto">
+type="text" name="name"
+type="email" name="_replyto"
    
