@@ -67,7 +67,7 @@ Before Notarizing any document, all of these need to be present:
 *   Propper form of identification:<br />
      -State Issued Identification*<br /> 
      -US Passport<br />
-      -U.S. military identification card<br />
+     -U.S. military identification card<br />
      -Resident alien identification card (green card)<br />
 *   The fee pertinent to each notarial act and or travel fee. 
 
