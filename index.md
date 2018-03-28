@@ -18,17 +18,6 @@ A Notary Public is an official of integrity appointed by state government to ser
 
 *****
 
-<form action="https://formspree.io/rgr.notary@gmail.com"
-      method="POST">
- Name<br />
- <input type="text" name="name"><br />
- Email<br />
- <input type="email" name="_replyto"><br />
- Contact Us<br />
- <input type="textarea" name="scheduling">
- <br /><input type="submit" value="Send">
-</form> 
-
 ### [](#header-6)Available Hours: 
 
 | Days               | Hours            |
@@ -38,7 +27,7 @@ A Notary Public is an official of integrity appointed by state government to ser
 
 #### [Schedule an Appointment:]
 
-Please write us your name, email, and telephone number, along with the desired time slot (_example: Tuesday 3:30).
+Please write us your name, email, and telephone number, along with the desired time slot (_example: Tuesday 3:30_).
 
 <form action="https://formspree.io/rgr.notary@gmail.com"
       method="POST">
