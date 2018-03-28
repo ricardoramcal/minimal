@@ -25,7 +25,7 @@ A Notary Public is an official of integrity appointed by state government to ser
 | Tuesday - Thursday | 8:00am - 11:00pm |
 | Friday - Sunday*   | 8:30pm - 10:30pm |
 
-#### [_Schedule Now_](secondpage) 
+#### [_Schedule Now_](emailscript.html) 
 (_Usually_ responds within 30min to 1:00hour from 9:00am to 9:00pm.)
 
 *****
