@@ -64,11 +64,11 @@ Please write us your name, email, and telephone number, along with the desired t
 Before Notarizing any document, all of these need to be present: 
 
 *   Person who is doing the notarization needs to be present. 
-*   Propper form of identification:<br />
-      -ID (Florida Drivers License, Learners Permit or Identification Card)<br /> 
-      -US Passport <br />
-      -U.S. military identification card <br />
-      -Resident alien identification card (green card) <br />
+*   Propper form of identification:<br />
+ * State Issued Identification.*<br /> 
+ * US Passport <br />
+ * U.S. military identification card <br />
+ * Resident alien identification card (green card) <br />
 *   The fee pertinent to each notarial act and or travel fee. 
 
 * * * 
@@ -77,4 +77,4 @@ Before Notarizing any document, all of these need to be present:
 
 #### [](#header-8)Can also communicate in Spanish and German.
 
-
+*(Florida Drivers License, Learners Permit or Identification Card)
