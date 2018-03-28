@@ -18,6 +18,13 @@ A Notary Public is an official of integrity appointed by state government to ser
 
 *****
 
+<form action="https://formspree.io/rgr.notary.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form> 
+
 ### [](#header-6)Available Hours: 
 
 | Days               | Hours            |
