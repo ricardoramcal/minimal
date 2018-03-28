@@ -2,4 +2,11 @@
 ---
 
 @import "jekyll-theme-minimal";
-method="POST"
+
+
+<form action="https://formspree.io/rgr.notary@gmail.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form>
